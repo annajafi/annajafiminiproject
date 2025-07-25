@@ -61,4 +61,4 @@ Though not a Batman title directly, Bruce Wayne appears in Luthor’s storyline 
 
 ![Lex Luthor](assets/images/Lex_Luthor_Crisis_on_two_earths.jpeg)
 
-[Read more](https://animated-character-database.fandom.com/wiki/Lex_Luthor_(Crisis_on_Two_Earths)#:~:text=However%2C%20the%20decimation%20of%20his,that%20Earth%20without%20harming%20anyone.)
+[Read more](https://animated-characterdatabase.fandom.com/wiki/Lex_Luthor_(Crisis_on_Two_Earths)#:~:text=However%2C%20the%20decimation%20of%20his,that%20Earth%20without%20harming%20anyone.)
