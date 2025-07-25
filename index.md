@@ -18,17 +18,13 @@ I really liked the talk with Dr. Spiros Michalakis and I want to pursue a simila
 **Entanglement**
 
 Math: 
-Quantum entanglement is when two particles become linked so that their states are connected, no matter how far apart they are. Mathematically, it means you can’t describe the state of one particle without referring to the other.
-
-Instead of writing the state of a system as a simple product of two separate parts (like |A⟩ ⊗ |B⟩), an entangled state looks more like |Ψ⟩ = (|00⟩ + |11⟩)/√2. This says that if one particle is found in state 0, the other must be too — and same for 1.
+Quantum entanglement is when two particles become linked so that their states are connected, no matter how far apart they are. Mathematically, it means you can’t describe the state of one particle without referring to the other. Instead of writing the state of a system as a simple product of two separate parts (like |A⟩ ⊗ |B⟩), an entangled state looks more like |Ψ⟩ = (|00⟩ + |11⟩)/√2. This says that if one particle is found in state 0, the other must be too — and same for 1.
 
 [Watch the video](https://www.youtube.com/watch?v=unb_yoj1Usk)
 
 **Many Worlds Interpretation**
 
-Math: In the Many Worlds Interpretation of quantum mechanics, the math follows the Schrödinger equation, which basically tells you how a quantum system changes over time. But instead of saying a particle “chooses” one outcome when you measure it, this interpretation says every possible outcome actually happens, just in different versions of the universe.
-
-So if a particle is in a mix of two states, like |0⟩ and |1⟩, and you measure it, the universe splits: in one version, you see 0, and in another, you see 1. Both outcomes are real, just in separate “worlds.” The math (those numbers like |a|² and |b|²) tells you how likely each world feels to you, but nothing ever collapses or disappears. It’s like a cosmic "choose your own adventure" where every path gets taken.
+Math: In the Many Worlds Interpretation of quantum mechanics, the math follows the Schrödinger equation, which basically tells you how a quantum system changes over time. But instead of saying a particle “chooses” one outcome when you measure it, this interpretation says every possible outcome actually happens, just in different versions of the universe. So if a particle is in a mix of two states, like |0⟩ and |1⟩, and you measure it, the universe splits: in one version, you see 0, and in another, you see 1. Both outcomes are real, just in separate “worlds.” The math (those numbers like |a|² and |b|²) tells you how likely each world feels to you, but nothing ever collapses or disappears. It’s like a cosmic "choose your own adventure" where every path gets taken.
 
 **Ethics**
 There isn't much mathematics involved in the ethics aspect inherently however, as we expand quantum research the mathematics operations that get demanded of quantum computers slowly increases, increasing the energy usage quantum technology would take, possibly presenting greater harm to our planet. 
