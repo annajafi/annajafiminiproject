@@ -29,6 +29,7 @@ Math: In the Many Worlds Interpretation of quantum mechanics, the math follows t
 So if a particle is in a mix of two states, like `|0⟩` and `|1⟩`, and you measure it, the universe splits: in one version, you see 0, and in another, you see 1. Both outcomes are real, just in separate “worlds.”
 
 The math — those numbers like `|a|²` and `|b|²` — tells you how likely each world *feels* to you, but nothing ever collapses or disappears. It’s like a cosmic "choose your own adventure" where every path gets taken.
+
 **Ethics**
 There isn't much mathematics involved in the ethics aspect inherently however, as we expand quantum research the mathematics operations that get demanded of quantum computers slowly increases, increasing the energy usage quantum technology would take, possibly presenting greater harm to our planet. 
 
