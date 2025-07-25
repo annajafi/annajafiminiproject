@@ -21,6 +21,8 @@ Quantum entanglement is when two particles become linked so that their states ar
 
 Instead of writing the state of a system as a simple product of two separate parts (like |A⟩ ⊗ |B⟩), an entangled state looks more like |Ψ⟩ = (|00⟩ + |11⟩)/√2. This says that if one particle is found in state 0, the other must be too — and same for 1.
 
+[Watch the video](https://www.youtube.com/watch?v=unb_yoj1Usk)
+
 **Many Worlds Interpretation**
 In the Many Worlds Interpretation of quantum mechanics, the math works the same as usual — it follows the Schrödinger equation, which basically tells you how a quantum system changes over time. But instead of saying a particle “chooses” one outcome when you measure it, this interpretation says every possible outcome actually happens, just in different versions of the universe.
 
