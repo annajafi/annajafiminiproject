@@ -11,9 +11,6 @@ Review mentions of quantum in DC comics and analyze the real quantum physics con
 ## Project Motivations
 I was inspired to make this because I've liked DC comics for years and it was one of my inspirations to getting into learning quantum because I kept seeing it referrenced so often. 
 
-## Goals
-I really liked the talk with Dr. Spiros Michalakis and I want to pursue a similar field to his as it combines two of my hobbies together. The project I made serves as a representation of that overlap between fiction and science that I want to build as a career in the future. 
-
 ## Quantum Topics(Tools/Techniques)
 **Entanglement**
 
@@ -74,6 +71,9 @@ Though not a Batman title directly, Bruce Wayne appears in Luthor’s storyline 
 ![Lex Luthor](assets/images/Lex_Luthor_Crisis_on_two_earths.jpeg)
 
 [Read more](https://animated-characterdatabase.fandom.com/wiki/Lex_Luthor_(Crisis_on_Two_Earths)#:~:text=However%2C%20the%20decimation%20of%20his,that%20Earth%20without%20harming%20anyone.)
+
+## Goals
+I really liked the talk with Dr. Spiros Michalakis and I want to pursue a similar field to his as it combines two of my hobbies together. The project I made serves as a representation of that overlap between fiction and science that I want to build as a career in the future. 
 
 ## References
 Arkham City. (n.d.). Batman Wiki. Fandom. Retrieved July 25, 2025, from https://batman.fandom.com/wiki/Arkham_City#:~:text=presumably%20Arkham%20Asylum.-,Evacuation%20and%20Shut%20Down,down%20as%20soon%20as%20possible
