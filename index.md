@@ -69,3 +69,11 @@ Though not a Batman title directly, Bruce Wayne appears in Luthor’s storyline 
 ![Lex Luthor](assets/images/Lex_Luthor_Crisis_on_two_earths.jpeg)
 
 [Read more](https://animated-characterdatabase.fandom.com/wiki/Lex_Luthor_(Crisis_on_Two_Earths)#:~:text=However%2C%20the%20decimation%20of%20his,that%20Earth%20without%20harming%20anyone.)
+
+## References
+Arkham City. (n.d.). Batman Wiki. Fandom. Retrieved July 25, 2025, from https://batman.fandom.com/wiki/Arkham_City#:~:text=presumably%20Arkham%20Asylum.-,Evacuation%20and%20Shut%20Down,down%20as%20soon%20as%20possible
+
+Quantum Eigenstate Device. (n.d.). Warner Bros. Wiki. Fandom. Retrieved July 25, 2025, from https://warnerbros.fandom.com/wiki/Quantum_Eigenstate_Device#:~:text=an%20Alternate%20Earth.-,History,and%20Destroyed%20the%20Alternate%20Earth
+
+Lex Luthor (Crisis on Two Earths). (n.d.). Animated Character Database Wiki. Fandom. Retrieved July 25, 2025, from https://animated-characterdatabase.fandom.com/wiki/Lex_Luthor_(Crisis_on_Two_Earths)#:~:text=However%2C%20the%20decimation%20of%20his,that%20Earth%20without%20harming%20anyone
+
