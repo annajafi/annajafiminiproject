@@ -33,7 +33,7 @@ In physics, **quantum entanglement** is a phenomenon where two or more particles
 
 ![Arkham City](assets/images/batattack.jpeg)
 
-[Read more](https://batman.fandom.com/wiki/Arkham_City#:~:text=presumably%20Arkham%20Asylum).-,Evacuation%20and%20Shut%20Down,down%20as%20soon%20as%20possible.)
+[Read more](https://batman.fandom.com/wiki/Arkham_City#:~:text=presumably%20Arkham%20Asylum.-,Evacuation%20and%20Shut%20Down,down%20as%20soon%20as%20possible.)
 
 ---
 
@@ -61,4 +61,4 @@ Though not a Batman title directly, Bruce Wayne appears in Luthor’s storyline 
 
 ![Lex Luthor](assets/images/Lex_Luthor_Crisis_on_two_earths.jpeg)
 
-[Read more]([https://dc.fandom.com/wiki/Lex_Luthor:_Man_of_Steel_Vol_1_1](https://animated-character-database.fandom.com/wiki/Lex_Luthor_(Crisis_on_Two_Earths)#:~:text=However%2C%20the%20decimation%20of%20his,that%20Earth%20without%20harming%20anyone.)
+[Read more](https://animated-character-database.fandom.com/wiki/Lex_Luthor_(Crisis_on_Two_Earths)#:~:text=However%2C%20the%20decimation%20of%20his,that%20Earth%20without%20harming%20anyone.)
