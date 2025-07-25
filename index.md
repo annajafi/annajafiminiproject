@@ -13,7 +13,7 @@ author_profile: false
 In physics, **quantum entanglement** is a phenomenon where two or more particles become linked so that the state of one directly influences the state of the other, no matter the distance between them. While the comic uses this metaphorically, it emphasizes the inseparability of hero and villain in Batman's world.
 
 *Add Image or Hyperlink here:*  
-![Arkham City](assets/img/arkham.jpg)
+![Arkham City](assets/img/batattack.jpeg)
 [Read more](https://dc.fandom.com/wiki/Batman:_Arkham_City_-_End_Game_Vol_1_1)
 
 ---
@@ -25,7 +25,7 @@ In *Final Crisis*, Batman battles forces that exist beyond space and time, inclu
 
 The **multiverse** is a theoretical structure in quantum physics where every decision or quantum event spawns a new universe. The **observer effect**—a principle where measurement collapses possible states into one outcome—is mirrored in how Batman’s choices shape fate across these multiverses.
 
-![Final Crisis](assets/img/final_crisis.jpg)
+![Final Crisis](assets/img/FinalCrisis.jpeg)
 [Read more](https://dc.fandom.com/wiki/Final_Crisis_Vol_1_1)
 
 ---
@@ -38,5 +38,5 @@ In this limited series, Bruce Wayne appears in Lex Luthor's tech-dominated world
 **Quantum computing** utilizes quantum bits (qubits) that can exist in superpositions, enabling powerful computations far beyond classical systems. The story reflects public fears of quantum AI systems making decisions beyond human oversight—something Batman stands firmly against.
 
 *Add Image or Hyperlink here:*  
-![Lex Luthor](assets/img/lex_luthor.jpg)
+![Lex Luthor](assets/img/Lex_Luthor_Crisis_on_two_earths.jpeg)
 [Read more](https://dc.fandom.com/wiki/Lex_Luthor:_Man_of_Steel_Vol_1_1)
