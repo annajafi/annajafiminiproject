@@ -14,6 +14,13 @@ I was inspired to make this because I've liked DC comics for years and it was on
 ## Goals
 I really liked the talk with Dr. Spiros Michalakis and I want to pursue a similar field to his as it combines two of my hobbies together. The project I made serves as a representation of that overlap between fiction and science that I want to build as a career in the future. 
 
+## Quantum Topics 
+**Entanglement**
+
+**Multiverse**
+
+**Ethics**
+
 
 ## Batman: Arkham City – End Game
 **Subject: Quantum Entanglement as a Metaphor for Identity**
